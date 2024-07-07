@@ -29,5 +29,5 @@ Archive of Panda 3D Builds (The game)
 # Quest Only Builds:
 | Build                  	 | Date          	 | Engine Version	    |		    Download Link             |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
-| V1:        	 |   August 8th, 2024 	   	 | 2021.3.5f1	    |		N/A |
+| V1:        	 |   August 8th, 2022 	   	 | 2021.3.5f1	    |		N/A |
 | V2:                | Unknown              | 2021.3.5f1           | N/A |
